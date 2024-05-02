@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(25, 156, 71);
+    font:normal 15pt Arial;
+}
+
+header{
+    color:aliceblue;
+    text-align: center;
+}
+
+section{
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 13px 12px 15px rgba(0, 0, 0, 0.471);
+}
+
+#msg{
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 30px;
+}
+
+#boa{
+    text-align: center;
+    padding-bottom: 50px;
+
+}
+
+#foto{
+    margin: auto;
+    width: 51%;
+}
+
+#imagem {
+    border-radius: 300px; 
+    border: 3px solid black;
+}
+
+footer{
+    color:aliceblue;
+    text-align: center;
+    font-style: italic;
+}
